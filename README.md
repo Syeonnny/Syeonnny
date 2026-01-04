@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=160&text=Syeonny&fontAlign=50&fontAlignY=35&fontSize=50&desc=DATA%20%7C%20AI&descAlign=50&descAlignY=60&color=0:2C5364,100:0F2027)
+![header](https://capsule-render.vercel.app/api?type=waving&height=160&text=Syeonny&fontAlign=50&fontAlignY=35&fontSize=50&desc=DATA%20%7C%20AI&descAlign=50&descAlignY=60&color=0:485563,100:29323C)
 
 
 ## Problem Solving
@@ -18,4 +18,4 @@
 [![Email](https://img.shields.io/badge/Email-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tmddus6901@naver.com)
 [![Blog](https://img.shields.io/badge/Blog-Tistory-000000?style=flat)](https://ddevkingsy.tistory.com)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:485563,100:29323C)
