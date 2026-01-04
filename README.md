@@ -15,7 +15,7 @@
 
 ## Contact
 
-[![Email](https://img.shields.io/badge/Email-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tmddus6901@naver.com)
+[![Email](https://img.shields.io/badge/Email-Contact-555555?style=flat)](mailto:tmddus6901@naver.com)
 [![Blog](https://img.shields.io/badge/Blog-Tistory-000000?style=flat)](https://ddevkingsy.tistory.com)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:485563,100:29323C)
